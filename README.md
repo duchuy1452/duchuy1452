@@ -12,8 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duchuy1452&layout=compact&theme=github_dark" alt="Top Languages" align="right" width="295">
 
-![duchuy1452's GitHub Stats][github-stats-img]
-
 ### Frontend Development:
 
 <a href="https://reactjs.org/"><img alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="42"></a>
@@ -38,11 +36,6 @@
 <a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="42"></a>
 <a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" height="42"></a>
 <a href="https://www.nginx.com/"><img alt="NGINX" title="NGINX" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" height="42"></a>
-
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-`[06/20 03:40]` <img alt="📝" src="https://github.com/duchuy1452/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [duchuy1452/XMR-Price-Checker](https://github.com/duchuy1452/XMR-Price-Checker)  
 
 </details>
 <!--END_SECTION:activity-->
